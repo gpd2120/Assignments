@@ -214,14 +214,6 @@
     "Temp_Diff = T_New - T_Old\n",
     "print(\"The temperature difference is %0.4f K with an original temperature of %0.4f K and a final temperature of %0.4f degrees.\" % (Temp_Diff, T_Old, T_New))"
    ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "id": "241b8a5e-f904-410a-867f-d4a5ca34a880",
-   "metadata": {},
-   "outputs": [],
-   "source": []
   }
  ],
  "metadata": {
